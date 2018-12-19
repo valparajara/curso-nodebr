@@ -1,0 +1,19 @@
+{
+  "name": "curso-nodebr",
+  "version": "1.0.0",
+  "description": "# Curso oferecido pela comunidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valparajara/curso-nodebr.git"
+  },
+  "author": "Valeria Parajara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valparajara/curso-nodebr/issues"
+  },
+  "homepage": "https://github.com/valparajara/curso-nodebr#readme"
+}
